@@ -1,1 +1,1 @@
-These are all my notes on Obsidian.
+my obsidian notes but backed up on github
