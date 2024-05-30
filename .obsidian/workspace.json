@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "136ab163462a77fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software engineering cycle.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software engineering cycle.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software engineering cycle.md"
+                "file": "git.md"
               }
             }
           }
@@ -145,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a7796ba98df3a5d",
+  "active": "136ab163462a77fd",
   "lastOpenFiles": [
+    "software engineering cycle.md",
+    "git.md",
     "README.md",
     "asdf.md",
-    "software engineering cycle.md",
     "Therapy/time perception.md",
     "Untitled",
     "New Text Document.txt",
